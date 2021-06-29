@@ -1,0 +1,25 @@
+{
+  "name": "今泉佑唯",
+  "name_hiragana": "いまいずみゆい",
+  "image": "../../member_img/yui.imaizumi.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "1998年9月30日"
+    },
+    {
+      "key": "血液型",
+      "value": "O型"
+    },
+    {
+      "key": "星座",
+      "value": "天秤座"
+    },
+    {
+      "key": "身高",
+      "value": "153cm"
+    }
+  ],
+  "tag": "1期生"
+}
+

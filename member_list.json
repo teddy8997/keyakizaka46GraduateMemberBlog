@@ -20,8 +20,8 @@
       {
         "name": "米谷 奈々未",
         "name_hiragana": "よねたに ななみ",
-        "image": "../member_img/nanami.yonetani.jpg",
-        "link" : "../keyakizaka46/nanami.yonetani/nanami.yonetani.html",
+        "image": "./member_img/nanami.yonetani.jpg",
+        "link" : "./keyakizaka46/nanami.yonetani/nanami.yonetani.html",
         "graduation_date": "2018年11月16日"
       }
     ]

@@ -1,0 +1,25 @@
+{
+  "name": "小林 由依",
+  "name_hiragana": "こばやし ゆい",
+  "image": "../../member_img/yui.kobayashi.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "1999年10月23日"
+    },
+    {
+      "key": "血液型",
+      "value": "A型"
+    },
+    {
+      "key": "星座",
+      "value": "天秤座"
+    },
+    {
+      "key": "身高",
+      "value": "161cm"
+    }
+  ],
+  "tag": "1期生"
+}
+
