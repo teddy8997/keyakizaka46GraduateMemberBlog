@@ -1,0 +1,253 @@
+[
+  {
+    "year": "2018卒業",
+    "member": 
+    [
+      {
+        "name": "今泉 佑唯",
+        "name_hiragana": "いまいず みゆい",
+        "image": "../member_img/yui.imaizumi.jpg",
+        "link" : "../keyakizaka46/yui.imaizumi/yui.imaizumi.html",
+        "graduation_date": "2018年11月4日"
+      },
+      {
+        "name": "志田 愛佳",
+        "name_hiragana": "しだ まなか",
+        "image": "../member_img/manaka.shida.jpg",
+        "link" : "../keyakizaka46/manaka.shida/manaka.shida.html",
+        "graduation_date": "2018年11月16日"
+      },
+      {
+        "name": "米谷 奈々未",
+        "name_hiragana": "よねたに ななみ",
+        "image": "../member_img/nanami.yonetani.jpg",
+        "link" : "../keyakizaka46/nanami.yonetani/nanami.yonetani.html",
+        "graduation_date": "2018年11月16日"
+      }
+    ]
+  },
+   {
+    "year": "2019卒業",
+    "member": 
+    [
+      {
+        "name": "長濱 ねる",
+        "name_hiragana": "ながはま ねる",
+        "image": "../member_img/neru.nagahama.jpg",
+        "link" : "../keyakizaka46/neru.nagahama/neru.nagahama.html",
+        "graduation_date": "2019年7月30日"
+      }
+    ]
+  },
+  {
+    "year": "2020卒業",
+    "member": 
+    [
+      {
+        "name": "織田 奈那",
+        "name_hiragana": "おだ なな",
+        "image": "../member_img/nana.oda.jpg",
+        "link" : "../keyakizaka46/nana.oda/nana.oda.html",
+        "graduation_date": "2020年1月23日"
+      },
+      {
+        "name": "鈴本 美愉",
+        "name_hiragana": "すずもと みゆ",
+        "image": "../member_img/miyu.suzumoto.jpg",
+        "link" : "../keyakizaka46/miyu.suzumoto/miyu.suzumoto.html",
+        "graduation_date": "2020年1月23日"
+      },
+      {
+        "name": "平手友梨奈",
+        "name_hiragana": "ひらて ゆりな",
+        "image": "../member_img/yurina.hirate.jpg",
+        "link" : "../keyakizaka46/yurina.hirate/yurina.hirate.html",
+        "graduation_date": "2020年1月23日"
+      },
+      {
+        "name": "長沢菜々香",
+        "name_hiragana": "ながさわ ななこ",
+        "image": "../member_img/nanako.nagasawa.jpg",
+        "link" : "../keyakizaka46/nanako.nagasawa/nanako.nagasawa.html",
+        "graduation_date": "2020年3月31日"
+      },
+      {
+        "name": "石森虹花",
+        "name_hiragana": "いしもり にじか",
+        "image": "../member_img/nijika.ishimori.jpg",
+        "link" : "../keyakizaka46/nijika.ishimori/nijika.ishimori.html",
+        "graduation_date": "2020年9月30日"
+      },
+      {
+        "name": "佐藤詩織",
+        "name_hiragana": "さとう しおり",
+        "image": "../member_img/shiori.satou.jpg",
+        "link" : "../keyakizaka46/shiori.satou/shiori.satou.html",
+        "graduation_date": "2020年10月13日"
+      }
+    ]
+  },
+  {
+    "year": "改名時在籍",
+    "member": 
+    [
+      {
+        "name": "上村 莉菜",
+        "name_hiragana": "うえむら りな",
+        "image": "../member_img/rina.uemura.jpg",
+        "link" : "../keyakizaka46/rina.uemura/rina.uemura.html"
+      },
+      {
+        "name": "尾関 梨香",
+        "name_hiragana": "おぜき りか",
+        "image": "../member_img/rika.ozeki.jpg",
+        "link" : "../keyakizaka46/rika.ozeki/rika.ozeki.html"
+      },
+       {
+        "name": "小池 美波",
+        "name_hiragana": "こいけ みなみ",
+        "image": "../member_img/minami.koike.jpg",
+        "link" : "../keyakizaka46/minami.koike/minami.koike.html"
+      },
+      {
+        "name": "小林 由依",
+        "name_hiragana": "こばやし ゆい",
+        "image": "../member_img/yui.kobayashi.jpg",
+        "link" : "../keyakizaka46/yui.kobayashi/yui.kobayashi.html"
+      },
+      {
+        "name": "齋藤 冬優花",
+        "name_hiragana": "さいとう ふゆか",
+        "image": "../member_img/fuyuka.saitou.jpg",
+        "link" : "../keyakizaka46/fuyuka.saitou/fuyuka.saitou.html"
+      },
+      {
+        "name": "菅井 友香",
+        "name_hiragana": "すがい ゆうか",
+        "image": "../member_img/yuuka.sugai.jpg",
+        "link" : "../keyakizaka46/yuuka.sugai/yuuka.sugai.html"
+      },
+      {
+        "name": "土生 瑞穂",
+        "name_hiragana": "はぶ みづほ",
+        "image": "../member_img/mizuho.habu.jpg",
+        "link" : "../keyakizaka46/mizuho.habu/mizuho.habu.html"
+      },
+      {
+        "name": "原田 葵",
+        "name_hiragana": "はらだ あおい",
+        "image": "../member_img/aoi.harada.jpg",
+        "link" : "../keyakizaka46/aoi.harada/aoi.harada.html"
+      },
+      {
+        "name": "守屋 茜",
+        "name_hiragana": "もりや あかね",
+        "image": "../member_img/akane.moriya.jpg",
+        "link" : "../keyakizaka46/akane.moriya/akane.moriya.html"
+      },
+      {
+        "name": "渡辺 梨加",
+        "name_hiragana": "わたなべ りか",
+        "image": "../member_img/rika.watanabe.jpg",
+        "link" : "../keyakizaka46/rika.watanabe/rika.watanabe.html"
+      },
+      {
+        "name": "渡邉 理佐",
+        "name_hiragana": "わたなべ りさ",
+        "image": "../member_img/risa.watanabe.jpg",
+        "link" : "../keyakizaka46/risa.watanabe/risa.watanabe.html"
+      },
+      {
+        "name": "井上 梨名",
+        "name_hiragana": "いのうえ りな",
+        "image": "../member_img/rina.inoue.jpg",
+        "link" : "../keyakizaka46/rina.inoue/rina.inoue.html"
+      },
+      {
+        "name": "関 有美子",
+        "name_hiragana": "せき ゆみこ",
+        "image": "../member_img/yumiko.seki.jpg",
+        "link" : "../keyakizaka46/yumiko.seki/yumiko.seki.html"
+      },
+      {
+        "name": "武元 唯衣",
+        "name_hiragana": "たけもと ゆい",
+        "image": "../member_img/yui.takemoto.jpg",
+        "link" : "../keyakizaka46/yui.takemoto/yui.takemoto.html"
+      },
+      {
+        "name": "田村 保乃",
+        "name_hiragana": "たむら ほの",
+        "image": "../member_img/hono.tamura.jpg",
+        "link" : "../keyakizaka46/hono.tamura/hono.tamura.html"
+      },
+      {
+        "name": "藤吉 夏鈴",
+        "name_hiragana": "ふじよし かりん",
+        "image": "../member_img/karin.fujiyoshi.jpg",
+        "link" : "../keyakizaka46/karin.fujiyoshi/karin.fujiyoshi.html"
+      },
+      {
+        "name": "松田 里奈",
+        "name_hiragana": "まつだ りな",
+        "image": "../member_img/rina.matsuda.jpg",
+        "link" : "../keyakizaka46/rina.matsuda/rina.matsuda.html"
+      },
+      {
+        "name": "松平 璃子",
+        "name_hiragana": "まつだいら りこ",
+        "image": "../member_img/riko.matsudaira_k.jpg",
+        "link" : "../keyakizaka46/riko.matsudaira/riko.matsudaira.html"
+      },
+      {
+        "name": "森田 ひかる",
+        "name_hiragana": "もりた ひかる",
+        "image": "../member_img/hikaru.morita.jpg",
+        "link" : "../keyakizaka46/hikaru.morita/hikaru.morita.html"
+      },
+      {
+        "name": "山﨑 天",
+        "name_hiragana": "やまさき てん",
+        "image": "../member_img/ten.yamasaki.jpg",
+        "link" : "../keyakizaka46/ten.yamasaki/ten.yamasaki.html"
+      },
+      {
+        "name": "遠藤 光莉",
+        "name_hiragana": "えんどう ひかり",
+        "image": "../member_img/hikari.endo.jpg",
+        "link" : "../keyakizaka46/hikari.endo/hikari.endo.html"
+      },
+      {
+        "name": "大園 玲",
+        "name_hiragana": "おおぞの れい",
+        "image": "../member_img/rei.ozono.jpg",
+        "link" : "../keyakizaka46/rei.ozono/rei.ozono.html"
+      },
+      {
+        "name": "大沼 晶保",
+        "name_hiragana": "おおぬま あきほ",
+        "image": "../member_img/akiho.onuma.jpg",
+        "link" : "../keyakizaka46/akiho.oonuma/akiho.onuma.html"
+      },
+      {
+        "name": "幸阪 茉里乃",
+        "name_hiragana": "こうさか まりの",
+        "image": "../member_img/marino.kousaka.jpg",
+        "link" : "../keyakizaka46/marino.kousaka/marino.kousaka.html"
+      },
+      {
+        "name": "増本 綺良",
+        "name_hiragana": "ますもと きら",
+        "image": "../member_img/kira.masumoto.jpg",
+        "link" : "../keyakizaka46/kira.masumoto/kira.masumoto.html"
+      },
+      {
+        "name": "守屋 麗奈",
+        "name_hiragana": "もりや れな",
+        "image": "../member_img/rena.moriya.jpg",
+        "link" : "../keyakizaka46/rena.moriya/rena.moriya.html"
+      }
+    ]
+  }
+]
+
