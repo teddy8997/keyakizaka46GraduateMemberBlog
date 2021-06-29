@@ -1,0 +1,24 @@
+{
+  "name": "上村 莉菜",
+  "name_hiragana": "さうえむら りな",
+  "image": "../../member_img/rina.uemura.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "1997年01月04日"
+    },
+    {
+      "key": "血液型",
+      "value": "O型"
+    },
+    {
+      "key": "星座",
+      "value": "摩羯座"
+    },
+    {
+      "key": "身高",
+      "value": "153.5cm"
+    }
+  ],
+  "tag": "1期生"
+}

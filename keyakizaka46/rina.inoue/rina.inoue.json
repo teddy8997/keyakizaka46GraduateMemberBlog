@@ -1,0 +1,24 @@
+{
+  "name": "井上 梨名",
+  "name_hiragana": "いのうえ りな",
+  "image": "../../member_img/rina.inoue.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "2001年01月29日"
+    },
+    {
+      "key": "血液型",
+      "value": "A型"
+    },
+    {
+      "key": "星座",
+      "value": "水瓶座"
+    },
+    {
+      "key": "身高",
+      "value": "163cm"
+    }
+  ],
+  "tag": "2期生"
+}
