@@ -1,0 +1,24 @@
+{
+  "name": "佐藤詩織",
+  "name_hiragana": "さとうしおり",
+  "image": "../../member_img/shiori.satou.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "1996年11月16日"
+    },
+    {
+      "key": "血液型",
+      "value": "A型"
+    },
+    {
+      "key": "星座",
+      "value": "天蠍座"
+    },
+    {
+      "key": "身高",
+      "value": "161cm"
+    }
+  ],
+  "tag": "1期生"
+}
