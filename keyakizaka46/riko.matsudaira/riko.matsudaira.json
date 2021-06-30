@@ -1,0 +1,25 @@
+{
+  "name": "松平 璃子",
+  "name_hiragana": "まつだいら りこ",
+  "image": "../../member_img/riko.matsudaira.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "1998年5月5日"
+    },
+    {
+      "key": "血液型",
+      "value": "O型"
+    },
+    {
+      "key": "星座",
+      "value": "金牛座"
+    },
+    {
+      "key": "身高",
+      "value": "168.3cm"
+    }
+  ],
+  "tag": "2期生"
+}
+
