@@ -1,0 +1,25 @@
+{
+  "name": "米谷奈々未",
+  "name_hiragana": "よねたにななみ",
+  "image": "../../member_img/nanami.yonetani.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "2000年2月24日"
+    },
+    {
+      "key": "血液型",
+      "value": "B型"
+    },
+    {
+      "key": "星座",
+      "value": "雙魚座"
+    },
+    {
+      "key": "身高",
+      "value": "157cm"
+    }
+  ],
+  "tag": "1期生"
+}
+
