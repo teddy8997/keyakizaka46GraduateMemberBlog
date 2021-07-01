@@ -1,0 +1,25 @@
+{
+  "name": "幸阪 茉里乃",
+  "name_hiragana": "こうさか まりの",
+  "image": "../../member_img/marino.kousaka.jpg",
+  "intro": [
+    {
+      "key": "生年月日",
+      "value": "2002年12月19日"
+    },
+    {
+      "key": "血液型",
+      "value": "O型"
+    },
+    {
+      "key": "星座",
+      "value": "射手座"
+    },
+    {
+      "key": "身高",
+      "value": "154.5cm"
+    }
+  ],
+  "tag": "2期生"
+}
+
